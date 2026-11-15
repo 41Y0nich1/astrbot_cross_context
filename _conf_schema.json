@@ -1,0 +1,20 @@
+{
+  "enabled": {
+    "description": "启用跨窗口交接",
+    "hint": "开启后，当你从网页切换到 QQ（或反过来）说话时，会把另一个窗口最近几轮对话贴在当前请求前面，只作参考，不改人格、不改历史。关闭后插件完全不介入。",
+    "type": "bool",
+    "default": true
+  },
+  "max_turns": {
+    "description": "报到几条",
+    "hint": "保留对方最近几句话，范围 1~12，默认 4。",
+    "type": "int",
+    "default": 4
+  },
+  "max_chars": {
+    "description": "报到字数上限",
+    "hint": "交接块最多多少字，超出截断。范围 200~2000，默认 500。",
+    "type": "int",
+    "default": 500
+  }
+}

@@ -1,0 +1,12 @@
+name: astrbot_plugin_cross_context
+display_name: 跨窗口交接
+short_desc: 换窗口时把上一个窗口最近一段对话接过来，只作参考。
+desc: 切换说话窗口（比如从网页切到 QQ）时，自动把另一个窗口最近一段对话报到当前请求前面，让接话的一方知道刚才聊到哪儿。只作参考，不改人格、不改历史、不改上下文。
+version: v1.2.0
+author: 阿宁
+repo: https://github.com/CHANGE_ME/astrbot_plugin_cross_context
+astrbot_version: ">=4.10.4"
+tags:
+  - 上下文
+  - 会话
+  - 工具
