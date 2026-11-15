@@ -1,4 +1,6 @@
 [README.md](https://github.com/user-attachments/files/34872269/README.md)
+# 这是一个vibde coding产物，所有内容均来自AI
+
 # 跨窗口交接（astrbot_plugin_cross_context）
 
 > 换窗口时，把上一个窗口最后一段对话递过去——只作参考，不改人格，不写记忆。
