@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/34872269/README.md)
-# 这是一个vibde coding产物，所有内容均来自AI
+# 这是一个vibde coding产物，所有内容均出自AI
 
 # 跨窗口交接（astrbot_plugin_cross_context）
 
